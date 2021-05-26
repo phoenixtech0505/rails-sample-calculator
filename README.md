@@ -1,4 +1,4 @@
-# Devskiller programming task sample - Ruby on Rails
+# Programming task sample - Ruby on Rails
 
 ## Introduction
 
